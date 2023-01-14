@@ -1,3 +1,5 @@
+# Dota2-Prediction-Model
+
 Files:
 - runModel.py has a terminal interface. Run this program directly, python runModel.py,
 and follow the instruction to select dataset and model. Note that most of them take a while,
@@ -20,4 +22,4 @@ into a format acceptable for preprocessing.py and runModel.py. heroes.json is
 the mapping of hero names to hero id.
 
 - plot contains some plots of learning curve.
-# Dota2-Prediction-Model
+
